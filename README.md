@@ -1,5 +1,3 @@
-Certainly! Here's the README.md content in GitHub markdown format that you can directly copy and paste into your GitHub repository:
-
 ```markdown
 # Customer Segmentation using Machine Learning
 
