@@ -7,9 +7,9 @@ This project demonstrates how to perform customer segmentation using Machine Lea
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Impact](#impact)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Customer segmentation is the process of dividing a customer base into groups of individuals who share similar characteristics. This can help businesses tailor their marketing strategies, product offerings, and customer service to meet the unique needs of each segment.
