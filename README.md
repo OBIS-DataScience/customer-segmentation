@@ -1,4 +1,3 @@
-```markdown
 # Customer Segmentation using Machine Learning
 
 This project demonstrates how to perform customer segmentation using Machine Learning algorithms. Customer segmentation is a vital step for businesses to understand their customer base better, target marketing efforts, and provide personalized experiences to different customer segments. In this project, we will explore and compare three popular clustering algorithms: K-Means, Agglomerative Clustering, Affinity Propagation, and DBSCAN.
